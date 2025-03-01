@@ -36,7 +36,6 @@ cdp-chatbot
 │   ├── test_models.py
 │   └── test_app.py
 ├── requirements.txt
-├── Makefile                   # Common commands
 ├── .gitignore
 └── README.md
 ```
